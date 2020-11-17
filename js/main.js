@@ -13,7 +13,6 @@ console.log(n2);
 const n3 = -19;
 console.log(n3);
 
-
 // 2.Sukurti 3 kintamuosius su teksto tipo reiksmemis
 // Mama, Tetis ir Vaikas
 
@@ -23,4 +22,3 @@ const text3 = 'Vaikas';
 const Seima = text1 + ',' + ' ' + text2 + " " + 'ir'+ ' ' + text3;
 
 console.log(Seima);
-
